@@ -13,7 +13,7 @@ Ubuntu 22.04をベースとして、Dockerコンテナ内でPythonを扱うた�
 ## インストール
 1. リポジトリをクローンします：
     ```
-    git clone https://github.com/your-username/DockerDevSample.git
+    git clone https://github.com/kf020501/DockerDevSample.git
     ```
 2. Dockerイメージをビルドします：
     ```
